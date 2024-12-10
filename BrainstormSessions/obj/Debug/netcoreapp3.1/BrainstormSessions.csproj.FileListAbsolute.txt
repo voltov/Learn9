@@ -67,4 +67,5 @@ C:\BUCKET\DOT_NET\Learn_9\Logging\BrainstormSessions\bin\Debug\netcoreapp3.1\Ser
 C:\BUCKET\DOT_NET\Learn_9\Logging\BrainstormSessions\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
 C:\BUCKET\DOT_NET\Learn_9\Logging\BrainstormSessions\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
 C:\BUCKET\DOT_NET\Learn_9\Logging\BrainstormSessions\bin\Debug\netcoreapp3.1\System.Text.Json.dll
-C:\BUCKET\DOT_NET\Learn_9\Logging\BrainstormSessions\bin\Debug\netcoreapp3.1\appsettings.json
+C:\BUCKET\DOT_NET\Learn_9\Logging\BrainstormSessions\bin\Debug\netcoreapp3.1\Serilog.Sinks.EmailPickup.dll
+C:\BUCKET\DOT_NET\Learn_9\Logging\BrainstormSessions\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll

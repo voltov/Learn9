@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BrainstormSessions.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a65e891aca127e05d54a3bf4d924383f8f2b84a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f40a8b7558f1ad068c16191e1ea19f566cd0e5c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("BrainstormSessions.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BrainstormSessions.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,7 +1,10 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 using Serilog;
+using Serilog.Events;
+using Serilog.Sinks.EmailPickup;
 using System;
+using System.Net;
 
 namespace BrainstormSessions
 {
@@ -9,6 +12,18 @@ namespace BrainstormSessions
     {
         public static void Main(string[] args)
         {
+            Log.Logger = new LoggerConfiguration()
+            .MinimumLevel.Verbose()
+            .WriteTo.Console()
+            .WriteTo.EmailPickup(
+                fromEmail: "doNotReply@domain.com",
+                toEmail: "ConsoleApp.Support@domain.com",
+                pickupDirectory: @"c:\logs\emailpickup",
+                subject: "There is something wrong with consoleapp",
+                fileExtension: ".eml",
+                restrictedToMinimumLevel: LogEventLevel.Error)
+            .CreateLogger();
+
             CreateHostBuilder(args).Build().Run();
         }
 

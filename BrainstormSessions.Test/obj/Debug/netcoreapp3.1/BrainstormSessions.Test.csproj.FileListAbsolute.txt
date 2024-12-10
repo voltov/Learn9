@@ -139,7 +139,8 @@ C:\BUCKET\DOT_NET\Learn_9\Logging\BrainstormSessions.Test\bin\Debug\netcoreapp3.
 C:\BUCKET\DOT_NET\Learn_9\Logging\BrainstormSessions.Test\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
 C:\BUCKET\DOT_NET\Learn_9\Logging\BrainstormSessions.Test\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
 C:\BUCKET\DOT_NET\Learn_9\Logging\BrainstormSessions.Test\bin\Debug\netcoreapp3.1\System.Text.Json.dll
-C:\BUCKET\DOT_NET\Learn_9\Logging\BrainstormSessions.Test\bin\Debug\netcoreapp3.1\appsettings.json
 C:\BUCKET\DOT_NET\Learn_9\Logging\BrainstormSessions.Test\bin\Debug\netcoreapp3.1\Serilog.Sinks.TestCorrelator.dll
 C:\BUCKET\DOT_NET\Learn_9\Logging\BrainstormSessions.Test\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
 C:\BUCKET\DOT_NET\Learn_9\Logging\BrainstormSessions.Test\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\BUCKET\DOT_NET\Learn_9\Logging\BrainstormSessions.Test\bin\Debug\netcoreapp3.1\Serilog.Sinks.EmailPickup.dll
+C:\BUCKET\DOT_NET\Learn_9\Logging\BrainstormSessions.Test\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll

@@ -164,6 +164,10 @@
             "Serilog.Extensions.Logging": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Serilog.Sinks.EmailPickup": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             }
           },
           "imports": [
